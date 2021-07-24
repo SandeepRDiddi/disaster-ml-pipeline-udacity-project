@@ -59,6 +59,3 @@ To run ML pipeline that trains classifier and saves the pickle files are
 
 
 
-**Once the model is trained and deployed we will need to expose the End point on UI and that UI Should have capabilities to classifiy the New message 
-
-
